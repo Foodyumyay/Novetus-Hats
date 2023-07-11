@@ -1,0 +1,1 @@
+Red Bandana of SQL Injection'); DROP TABLE Users;-- Learn to sanitize ur database inputs, noob.
